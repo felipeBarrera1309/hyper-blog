@@ -2,7 +2,6 @@ body{
     font-family: 'Courier New', Courier, monospace;
     background-color: lightgrey;
     font-size: 2rem;
-    color: lightblue;
     min-height: 100vh;
     min-width: 100vw;
     display: flex;
