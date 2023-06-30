@@ -1,2 +1,2 @@
-*images
-!images/cuteCat.jpg
+*.jpg
+!*cuteCat.jpg
