@@ -5,14 +5,6 @@ jkdfkd
 
 cambios rama experimento
 
-<<<<<<< HEAD
-monta bicicleta
-
-este es el cambio de la rama principal
-
-segndo cambio en la rama principal
-=======
 cambio 2 en la rama experimento
 
 monta bicicleta
->>>>>>> 2ba0575 (exp 2)
